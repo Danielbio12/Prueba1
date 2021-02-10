@@ -28,7 +28,7 @@ view(vuelos)
 # alcance de cada función para que actúe ya no sobre todo el conjunto de 
 # datos sino de grupo en grupo.
 
-# Filtrar filas con filter() ------------
+# Filtrar filas con filter() -------------
 
 # Filtar un grupo de observaciones por sus valores, 
 # nombre del data frame y datos a seleccionar
